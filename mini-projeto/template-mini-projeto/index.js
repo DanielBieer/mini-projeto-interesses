@@ -1,4 +1,4 @@
-/** Implemente seu código abaixo. Boa sorte! */
+
 
 const meusInteresses = document.querySelector('.meus-interesses');
 const inputInteresse = document.querySelector('#novo-interesse');
